@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886E590B-4D12-4C30-BF9D-64D7F9C89D86}|TspWin\\TspWin.vcxproj|C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\TspWin\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{886E590B-4D12-4C30-BF9D-64D7F9C89D86}|TspWin\\TspWin.vcxproj|solutionrelative:TspWin\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886E590B-4D12-4C30-BF9D-64D7F9C89D86}|TspWin\\TspWin.vcxproj|C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\TspWin\\thread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{886E590B-4D12-4C30-BF9D-64D7F9C89D86}|TspWin\\TspWin.vcxproj|solutionrelative:TspWin\\thread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thread.c",
+              "DocumentMoniker": "C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\TspWin\\thread.c",
+              "RelativeDocumentMoniker": "TspWin\\thread.c",
+              "ToolTip": "C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\TspWin\\thread.c",
+              "RelativeToolTip": "TspWin\\thread.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-15T20:23:07.545Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\TspWin\\main.c",
+              "RelativeDocumentMoniker": "TspWin\\main.c",
+              "ToolTip": "C:\\Users\\nando\\OneDrive\\Documentos\\TspWin-Simple\\TspWin\\TspWin\\main.c",
+              "RelativeToolTip": "TspWin\\main.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-15T20:09:16.562Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
