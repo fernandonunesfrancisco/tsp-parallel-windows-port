@@ -10,3 +10,4 @@ Arguments (Project > Properties > Debugging > Command Arguments): `cities thread
 | `main.c`        | reads arguments, times both runs, prints the comparison |
 
 Up to 13 cities (12! = 479 million routes). Beyond ~11 cities use Release, not Debug.
+
