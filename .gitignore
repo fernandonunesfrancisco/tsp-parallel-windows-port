@@ -1,1 +1,6 @@
-*.suo) 
+.vs/
+out/
+build/
+*.exe
+*.obj
+*.pdb
